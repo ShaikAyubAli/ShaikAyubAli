@@ -1,7 +1,3 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...
-)](https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__340.jpg
-)
-
 <h1 align="center">Hi 👋, I'm Shaik Ayub Ali</h1>
 <h3 align="center">A passionate Data developer from India</h3>
 <img align = "right" alt="Coding" width="400" src="https://th.bing.com/th/id/OIP.uCk6eXEUAurFIX4NzlNBqgAAAA?rs=1&pid=ImgDetMain"
