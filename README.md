@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shaik Ayub Ali</h1>
-<h3 align="center">A passionate Data developer from India</h3>
+<h3 align="center">A passionate Data Scientist from India</h3>
 <img align = "right" alt="Coding" width="400" src="https://th.bing.com/th/id/OIP.uCk6eXEUAurFIX4NzlNBqgAAAA?rs=1&pid=ImgDetMain"
 
 - 🔭 I’m currently working on **Data Science Projects**
