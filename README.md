@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Data Science Projects**
 - 🌱 I’m currently learning **Full Stack Data Science**
-- 👨‍💻 All of my projects are available at [https://github.com/ShaikAyubAli](https://github.com/ShaikAyubAli)
+- 👨‍💻 All of my projects are available at **My Repositories**
 - 📫 How to reach me **shaikayyubali1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
