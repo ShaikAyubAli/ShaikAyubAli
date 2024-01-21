@@ -4,6 +4,8 @@
 
 - 🔭 I’m currently working on **Data Science Projects**
 - 🌱 I’m Have Recently completed my course on **Full Stack Data Science and AI**
+- 👀 I’m interested in in leveraging data science techniques to extract meaningful insights from large datasets, with a focus on predictive modeling and machine learning applications.
+- 💞️ I’m looking to collaborate on on data science projects focused on predictive modeling and machine learning. My expertise includes algorithm development, feature engineering, data visualization, Deeep learning, Natural Language processing and AI.
 - 👨‍💻 All of my projects are available at **My Repositories**
 - 📫 How to reach me **shaikayyubali1@gmail.com**
 
