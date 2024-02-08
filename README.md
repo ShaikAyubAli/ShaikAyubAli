@@ -3,7 +3,7 @@
 <img align = "right" alt="Coding" width="400" src="https://th.bing.com/th/id/OIP.uCk6eXEUAurFIX4NzlNBqgAAAA?rs=1&pid=ImgDetMain"
 
 - 🔭 I’m currently working on **Data Science Projects**
-- 🌱 I’m Have Recently completed my course on **Full Stack Data Science and AI**
+- 🌱 I am a **Microsoft and Nasscom certified data scientist** with good knowledge of **Full Stack Data Science and AI**
 - 👀 I’m interested in in leveraging data science techniques to extract meaningful insights from large datasets, with a focus on predictive modeling and machine learning applications.
 - 👨‍💻 All of my projects are available at **My Repositories**
 - 📫 How to reach me **shaikayyubali1@gmail.com**
